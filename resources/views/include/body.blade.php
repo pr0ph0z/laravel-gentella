@@ -25,6 +25,7 @@
                 <div class="x_title">
                   <div class="clearfix"></div>
                 </div>
+                @yield('content')
               </div>
             </div>
           </div>
